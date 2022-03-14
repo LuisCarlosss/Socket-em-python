@@ -1,5 +1,5 @@
 import socket 
-#path C:\Users\T-Gamer\Documents\GitHub\Socket-em-python\Cliente e Servidor
+
 
 hp = socket.gethostname(),7777 
 server = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
